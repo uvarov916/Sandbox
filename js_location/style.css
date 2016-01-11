@@ -1,0 +1,39 @@
+body {
+    background: #ECEEEF;
+    text-align: center;
+    margin: 100px auto;
+    max-width: 462px;
+    padding: 0 40px;
+    font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+#loading-indicator {
+    margin: 2rem;
+}
+
+h1, h2 {
+    font-weight: 300;
+    margin: 0;
+    display: none;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 2rem;
+}
+
+.weather-card {
+    background: white;
+    padding: 0 3rem;
+    display: inline-block;
+    text-align: center;
+    border-radius: 2px;
+    box-shadow: 0 0 4px #B2B2B2;
+}
