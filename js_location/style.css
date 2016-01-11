@@ -8,6 +8,15 @@ body {
     font-weight: 300;
 }
 
+#error {
+    position: absolute;
+    width: 100%;
+    background: rgb(232, 65, 65);
+    color: white;
+    left: 0;
+    top: 0;
+}
+
 #loading-indicator {
     margin: 2rem;
 }
